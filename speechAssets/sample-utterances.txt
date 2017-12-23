@@ -1,0 +1,6 @@
+CheapestPrice (/(/to )find) (/the cheapest/cheapest) (/price of) gas (near/in) ({City}/{City} {State}/{Zip}/{State})
+CheapestPrice what is the cheapest (/price of) gas (near/in) ({City}/{City} {State}/{Zip}/{State})
+CheapestPrice where is the cheapest (/price of/priced) gas (near/in) ({City}/{City} {State}/{Zip}/{State})
+CheapestPrice (/(/to )find) cheap gas (near/in) ({City}/{City} {State}/{Zip}/{State})
+
+# http://www.makermusings.com/amazon-echo-utterance-expander/

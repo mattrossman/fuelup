@@ -1,0 +1,21 @@
+{
+	"intents": [
+		{
+			"intent": "CheapestPrice",
+			"slots": [
+				{
+					"name": "City",
+					"type": "AMAZON.US_CITY"
+				},
+				{
+					"name": "State",
+					"type": "AMAZON.US_STATE"
+				},
+				{
+					"name": "Zip",
+					"type": "AMAZON.NUMBER"
+				}
+			]
+		}
+	]
+}
